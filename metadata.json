@@ -1,0 +1,42 @@
+{
+  "title": "Bancos de dados de projetos do Vortex Data",
+  "description": "Este repositório possui diversos bancos de dados com bases trabalhadas pela equipe de dados do Vortex Media, a fim de facilitar consultas e transparência de informações",
+  "databases": {
+    "Justica_em_numeros_CNJ_2019": {
+      "title": "Justiça em números - 2019 | Vortex 2019",
+      "description": "Dados sobre o relatório de 2019 do Justiça em Números",
+      "source": "Conselho Nacional de Justiça",
+      "source_url": "http://www.cnj.jus.br/pesquisas-judiciarias/justicaemnumeros/2016-10-21-13-13-04/pj-justica-em-numeros/2013-01-04-19-13-21"
+    },
+    "bens_candidatos": {
+      "title": "Declaração de bens de candidatos em 2018",
+      "description": "O banco contém 2 tabelas (candidatos e declarações de bens) e 3 views (um join agregado e duas análises)",
+      "source": "TSE",
+      "source_url": "http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais"
+    },
+    "infracoes_ibama": {
+      "title": "Autuações ambientais do Ibama",
+      "description": "Multas aplicadas pelo Ibama nas últimas décadas",
+      "source": "Ibama",
+      "source_url": "https://servicos.ibama.gov.br/ctf/publico/areasembargadas/ConsultaPublicaAreasEmbargadas.php"
+    },
+    "lista_estatais": {
+      "title": "lista contendo o CNPJ e o nome das empresas estatais utilizadas pelo Departamento de Estatísticas (DSTAT) do Banco Central do Brasil na compilação das estatísticas fiscais. A lista elaborada pelo DSTAT possui fins exclusivamente estatísticos.",
+      "description": "Banco xyz",
+      "source": "Departamento de Estatísticas (DSTAT) do Banco Central do Brasil / Solicitação de dados Vortex via LAI",
+      "source_url": "www.bcb.gov.br"
+    },
+    "projeto4g": {
+      "title": "Antenas 4G no Brasil",
+      "description": "Banco de dados organizado pelo Vortex sobre detalhes e localização de ERBs no Brasil, assim como qualidade de serviço apurada pela Anatel",
+      "source": "Anatel",
+      "source_url": "https://www.anatel.gov.br/dados/"
+    },
+    "receitas_eleitorais_bolsonaro": {
+      "title": "Receitas eleitorais de Jair Bolsonaro em 2018",
+      "description": "Relação de receitas eleitorais de Bolsonaro para as eleições de 2018",
+      "source": "Levantamento do Vortex com base em dados do TSE",
+      "source_url": "http://divulgacandcontas.tse.jus.br/divulga/#/"
+    }
+  }
+}
