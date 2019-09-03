@@ -37,6 +37,18 @@
       "description": "Relação de receitas eleitorais de Bolsonaro para as eleições de 2018",
       "source": "Levantamento do Vortex com base em dados do TSE",
       "source_url": "http://divulgacandcontas.tse.jus.br/divulga/#/"
+    },
+    "obras_pac": {
+      "title": "Obras do PAC - investimentos abaixo de R$10 mi",
+      "description": "Relação de obras do PAC com investimentos abaixo de R$10 milhões, assim como seu percentual de execução (ref. agosto 2019)",
+      "source": "Portal do Pac/Com classificação do Vortex",
+      "source_url": "http://www.pac.gov.br/"
+    },
+    "acordaos_tcu": {
+      "title": "Base de acórdãos do TCU",
+      "description": "Base com 4G de acórdãos do Tribunal de Contas da União, coletada diretamente do site da entidade e publicada abertamente no Keggle, com código no GitHub. Estes dizem respeito aos acórdãos proferidos pelo TCU entre os anos de 1992 até 30/08/2019.",
+      "source": "TCU/@netoferraz",
+      "source_url": "https://github.com/netoferraz/acordaos-tcu"
     }
   }
 }
